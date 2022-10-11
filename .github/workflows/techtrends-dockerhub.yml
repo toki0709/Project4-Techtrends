@@ -39,4 +39,4 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64
           push: true
-          tags: toki0709/python-helloworld:latest
+          tags: toki0709/techtrends:latest
